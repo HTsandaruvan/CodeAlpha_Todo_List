@@ -1,9 +1,8 @@
 
 ---
 
-## **2. To-Do List Project**
 
-### **Markdown File: `todo-list.md`**
+
 
 
 # To-Do List
